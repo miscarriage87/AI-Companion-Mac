@@ -5,7 +5,7 @@
 
  dotenv.config();
 
- console.log(process.env.OPENAI_API_KEY);
+ // console.log(process.env.OPENAI_API_KEY);
 
  const configuration = new Configuration({
    apiKey: process.env.OPENAI_API_KEY,
@@ -46,4 +46,4 @@
     }
  })
 
- app.listen(5001, () => console.log('Server is running on http://localhost:5001'));
+ app.listen(5001, () => console.log('Server is running on http://localhost:5001 or https://openai-web.onrender.com'));
