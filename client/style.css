@@ -152,6 +152,7 @@ form img {
 @media only screen and (max-width: 768px) {
   #app {
     flex-direction: column;
+    height: 100%;
   }
 
   #chat_container {
