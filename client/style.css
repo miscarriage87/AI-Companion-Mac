@@ -148,3 +148,30 @@ form img {
   width: 30px;
   height: 30px;
 }
+
+@media only screen and (max-width: 768px) {
+  #app {
+    flex-direction: column;
+  }
+
+  #chat_container {
+    overflow-y: auto;
+  }
+
+  .chat {
+    flex-direction: row;
+  }
+
+  .message {
+    font-size: 15px;
+  }
+
+  .wrapper {
+    padding: 5px;
+  }
+
+  textarea {
+    font-size: 15px;
+    padding: 0;
+  }
+}
