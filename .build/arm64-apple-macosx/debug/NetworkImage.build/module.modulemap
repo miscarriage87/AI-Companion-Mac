@@ -1,0 +1,4 @@
+module NetworkImage {
+    header "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/NetworkImage.build/NetworkImage-Swift.h"
+    requires objc
+}

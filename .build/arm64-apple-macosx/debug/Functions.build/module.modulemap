@@ -1,0 +1,4 @@
+module Functions {
+    header "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/Functions.build/Functions-Swift.h"
+    requires objc
+}

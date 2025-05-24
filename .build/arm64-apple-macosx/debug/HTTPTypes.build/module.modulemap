@@ -1,0 +1,4 @@
+module HTTPTypes {
+    header "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/HTTPTypes.build/HTTPTypes-Swift.h"
+    requires objc
+}

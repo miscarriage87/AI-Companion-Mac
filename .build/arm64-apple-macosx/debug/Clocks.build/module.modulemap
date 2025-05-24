@@ -1,0 +1,4 @@
+module Clocks {
+    header "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/Clocks.build/Clocks-Swift.h"
+    requires objc
+}

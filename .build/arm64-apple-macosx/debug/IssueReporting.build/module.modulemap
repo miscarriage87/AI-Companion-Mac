@@ -1,0 +1,4 @@
+module IssueReporting {
+    header "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/IssueReporting.build/IssueReporting-Swift.h"
+    requires objc
+}

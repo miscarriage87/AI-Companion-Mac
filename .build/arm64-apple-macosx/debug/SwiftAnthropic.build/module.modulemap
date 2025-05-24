@@ -1,0 +1,4 @@
+module SwiftAnthropic {
+    header "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/SwiftAnthropic-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module _CryptoExtras {
+    header "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/_CryptoExtras.build/_CryptoExtras-Swift.h"
+    requires objc
+}

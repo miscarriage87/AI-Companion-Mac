@@ -1,0 +1,4 @@
+module AutomergeUniffi {
+    header "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AutomergeUniffi.build/AutomergeUniffi-Swift.h"
+    requires objc
+}
