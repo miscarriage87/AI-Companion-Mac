@@ -107,8 +107,88 @@ class CalculatorPlugin: PluginProtocol {
     
     /// Convert a value from one unit to another
     private func convertUnits(parameters: [String: Any]) async throws -> Any {
-        // TODO: Implement unit conversion
-        return ["result": 0.0, "from_unit": "kg", "to_unit": "lb"]
+        guard
+            let value = parameters["value"] as? Double,
+            let fromUnitString = parameters["from_unit"] as? String,
+            let toUnitString = parameters["to_unit"] as? String
+        else {
+            throw PluginError.invalidParameters("value, from_unit and to_unit parameters are required")
+        }
+
+        guard let fromUnit = unit(from: fromUnitString),
+              let toUnit = unit(from: toUnitString) else {
+            throw PluginError.conversionError("Invalid units")
+        }
+
+        let resultValue: Double
+        if let from = fromUnit as? UnitLength, let to = toUnit as? UnitLength {
+            let measurement = Measurement(value: value, unit: from)
+            resultValue = measurement.converted(to: to).value
+        } else if let from = fromUnit as? UnitMass, let to = toUnit as? UnitMass {
+            let measurement = Measurement(value: value, unit: from)
+            resultValue = measurement.converted(to: to).value
+        } else if let from = fromUnit as? UnitTemperature, let to = toUnit as? UnitTemperature {
+            let measurement = Measurement(value: value, unit: from)
+            resultValue = measurement.converted(to: to).value
+        } else if let from = fromUnit as? UnitVolume, let to = toUnit as? UnitVolume {
+            let measurement = Measurement(value: value, unit: from)
+            resultValue = measurement.converted(to: to).value
+        } else {
+            throw PluginError.conversionError("Incompatible unit types")
+        }
+
+        return ["result": resultValue, "from_unit": fromUnitString, "to_unit": toUnitString]
+    }
+
+    /// Convert a string representation of a unit into a `Unit` type
+    private func unit(from string: String) -> Dimension? {
+        switch string.lowercased() {
+        // Length
+        case "m", "meter", "meters":
+            return UnitLength.meters
+        case "km", "kilometer", "kilometers":
+            return UnitLength.kilometers
+        case "cm", "centimeter", "centimeters":
+            return UnitLength.centimeters
+        case "mm", "millimeter", "millimeters":
+            return UnitLength.millimeters
+        case "ft", "foot", "feet":
+            return UnitLength.feet
+        case "yd", "yard", "yards":
+            return UnitLength.yards
+        case "mi", "mile", "miles":
+            return UnitLength.miles
+        case "in", "inch", "inches":
+            return UnitLength.inches
+
+        // Mass
+        case "g", "gram", "grams":
+            return UnitMass.grams
+        case "kg", "kilogram", "kilograms":
+            return UnitMass.kilograms
+        case "lb", "lbs", "pound", "pounds":
+            return UnitMass.pounds
+        case "oz", "ounce", "ounces":
+            return UnitMass.ounces
+
+        // Volume
+        case "l", "liter", "liters":
+            return UnitVolume.liters
+        case "ml", "milliliter", "milliliters":
+            return UnitVolume.milliliters
+        case "gal", "gallon", "gallons":
+            return UnitVolume.gallons
+
+        // Temperature
+        case "c", "celsius", "\u00B0c":
+            return UnitTemperature.celsius
+        case "f", "fahrenheit", "\u00B0f":
+            return UnitTemperature.fahrenheit
+        case "k", "kelvin", "\u00B0k":
+            return UnitTemperature.kelvin
+        default:
+            return nil
+        }
     }
     
     /// Errors that can occur in the calculator plugin
