@@ -1,11 +1,11 @@
 {
   "": {
-    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/OpenAI-Website/.build/index-build/arm64-apple-macosx/debug/OpenAI_Website.build/master.swiftdeps"
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI_Website.build/master.swiftdeps"
   },
-  "/Users/christophpohl/Documents/CODING/VS Code/OpenAI-Website/Sources/main.swift": {
-    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/OpenAI-Website/.build/index-build/arm64-apple-macosx/debug/OpenAI_Website.build/main.d",
-    "object": "/Users/christophpohl/Documents/CODING/VS Code/OpenAI-Website/.build/index-build/arm64-apple-macosx/debug/OpenAI_Website.build/main.swift.o",
-    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/OpenAI-Website/.build/index-build/arm64-apple-macosx/debug/OpenAI_Website.build/main~partial.swiftmodule",
-    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/OpenAI-Website/.build/index-build/arm64-apple-macosx/debug/OpenAI_Website.build/main.swiftdeps"
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/Sources/main.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI_Website.build/main.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI_Website.build/main.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI_Website.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI_Website.build/main.swiftdeps"
   }
 }
