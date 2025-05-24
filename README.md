@@ -111,3 +111,7 @@ This phase implements user authentication and profile management using Supabase 
 
 - Supabase Swift SDK: https://github.com/supabase/supabase-swift
 - KeychainAccess: https://github.com/kishikawakatsumi/KeychainAccess
+
+### License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
