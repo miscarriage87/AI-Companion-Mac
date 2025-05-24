@@ -58,6 +58,7 @@ class ProfileViewModel: ObservableObject {
     // MARK: - Public Methods
     
     /// Fetch user profile from Supabase
+    @MainActor
     func fetchUserProfile() async {
         guard let userId = authService.session?.user.id else {
             return
@@ -67,37 +68,27 @@ class ProfileViewModel: ObservableObject {
         errorMessage = nil
         
         do {
-            let profile = try await authService.supabase.database
+            let response = try await authService.supabase.database
                 .from("profiles")
                 .select()
                 .eq("id", value: userId)
                 .single()
                 .execute()
-                .value
-                .decode(as: UserProfile.self)
             
-            DispatchQueue.main.async {
-                self.profile = profile
-                self.displayName = profile.displayName ?? ""
-                self.bio = profile.bio ?? ""
-                self.avatarURL = profile.avatarURL ?? ""
-                self.isLoading = false
+            // Annahme: response.data ist Data? oder [String: Any]?
+            guard let data = response.data else {
+                throw NSError(domain: "Profile", code: 0, userInfo: [NSLocalizedDescriptionKey: "No profile data"])
             }
+            let profile = try JSONDecoder().decode(UserProfile.self, from: data)
+
+            self.profile = profile
+            self.displayName = profile.displayName ?? ""
+            self.bio = profile.bio ?? ""
+            self.avatarURL = profile.avatarURL ?? ""
+            self.isLoading = false
         } catch {
-            DispatchQueue.main.async {
-                self.errorMessage = "Failed to load profile: \(error.localizedDescription)"
-                self.isLoading = false
-                
-                // If profile doesn't exist, create a default one
-                if let user = self.authService.currentUser {
-                    self.displayName = user.username
-                    
-                    // Create a default profile
-                    Task {
-                        await self.updateProfile()
-                    }
-                }
-            }
+            self.errorMessage = "Failed to load profile: \(error.localizedDescription)"
+            self.isLoading = false
         }
     }
     
