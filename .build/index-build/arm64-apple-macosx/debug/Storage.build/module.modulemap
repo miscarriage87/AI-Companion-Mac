@@ -1,0 +1,4 @@
+module Storage {
+    header "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Storage.build/Storage-Swift.h"
+    requires objc
+}

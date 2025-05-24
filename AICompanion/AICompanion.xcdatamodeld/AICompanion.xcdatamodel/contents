@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21754" systemVersion="22F82" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CDConversation" representedClassName="CDConversation" syncable="YES">
+        <attribute name="createdAt" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="id" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="title" attributeType="String"/>
+        <attribute name="updatedAt" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="messages" toMany="YES" deletionRule="Cascade" destinationEntity="CDMessage" inverseName="conversation" inverseEntity="CDMessage"/>
+        <relationship name="provider" maxCount="1" deletionRule="Nullify" destinationEntity="CDProvider" inverseName="conversations" inverseEntity="CDProvider"/>
+    </entity>
+    <entity name="CDMessage" representedClassName="CDMessage" syncable="YES">
+        <attribute name="content" attributeType="String"/>
+        <attribute name="id" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="isFromUser" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="timestamp" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="conversation" maxCount="1" deletionRule="Nullify" destinationEntity="CDConversation" inverseName="messages" inverseEntity="CDConversation"/>
+        <relationship name="provider" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="CDProvider" inverseName="messages" inverseEntity="CDProvider"/>
+    </entity>
+    <entity name="CDModel" representedClassName="CDModel" syncable="YES">
+        <attribute name="costPerInputToken" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="costPerOutputToken" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="displayName" attributeType="String"/>
+        <attribute name="id" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="maxContextLength" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="modelDescription" attributeType="String"/>
+        <attribute name="modelId" attributeType="String"/>
+        <attribute name="supportsStreaming" attributeType="Boolean" usesScalarValueType="YES"/>
+        <relationship name="provider" maxCount="1" deletionRule="Nullify" destinationEntity="CDProvider" inverseName="models" inverseEntity="CDProvider"/>
+    </entity>
+    <entity name="CDProvider" representedClassName="CDProvider" syncable="YES">
+        <attribute name="apiBaseURL" attributeType="String"/>
+        <attribute name="id" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="isEnabled" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="maxContextLength" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="name" attributeType="String"/>
+        <attribute name="providerDescription" attributeType="String"/>
+        <attribute name="requiresAPIKey" attributeType="Boolean" usesScalarValueType="YES"/>
+        <relationship name="conversations" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="CDConversation" inverseName="provider" inverseEntity="CDConversation"/>
+        <relationship name="messages" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="CDMessage" inverseName="provider" inverseEntity="CDMessage"/>
+        <relationship name="models" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="CDModel" inverseName="provider" inverseEntity="CDModel"/>
+    </entity>
+</model>

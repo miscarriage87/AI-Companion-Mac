@@ -1,0 +1,249 @@
+
+/* 
+  Localizable.strings
+  AICompanion
+  
+  Created on: May 19, 2025
+*/
+
+// General
+"app_name" = "AI Companion";
+"ok" = "Aceptar";
+"cancel" = "Cancelar";
+"save" = "Guardar";
+"delete" = "Eliminar";
+"edit" = "Editar";
+"close" = "Cerrar";
+"back" = "Atrás";
+"next" = "Siguiente";
+"done" = "Hecho";
+"loading" = "Cargando...";
+"error" = "Error";
+"success" = "Éxito";
+"warning" = "Advertencia";
+"search" = "Buscar";
+"settings" = "Ajustes";
+"help" = "Ayuda";
+"about" = "Acerca de";
+
+// Authentication
+"sign_in" = "Iniciar Sesión";
+"sign_up" = "Registrarse";
+"sign_out" = "Cerrar Sesión";
+"email" = "Correo electrónico";
+"password" = "Contraseña";
+"confirm_password" = "Confirmar Contraseña";
+"forgot_password" = "¿Olvidó su contraseña?";
+"reset_password" = "Restablecer Contraseña";
+"continue_with_apple" = "Continuar con Apple";
+"continue_with_google" = "Continuar con Google";
+"continue_with_microsoft" = "Continuar con Microsoft";
+"auth_error" = "Error de Autenticación";
+"invalid_credentials" = "Correo electrónico o contraseña inválidos";
+"passwords_dont_match" = "Las contraseñas no coinciden";
+"email_sent" = "Correo enviado";
+"check_email" = "Por favor, revise su correo electrónico";
+
+// Chat
+"new_chat" = "Nueva Conversación";
+"clear_chat" = "Limpiar Conversación";
+"export_chat" = "Exportar Conversación";
+"type_message" = "Escriba un mensaje...";
+"send" = "Enviar";
+"thinking" = "Pensando...";
+"regenerate" = "Regenerar Respuesta";
+"stop_generation" = "Detener Generación";
+"copy" = "Copiar";
+"message_copied" = "Mensaje copiado al portapapeles";
+"attach_file" = "Adjuntar Archivo";
+"voice_input" = "Entrada de Voz";
+"you" = "Tú";
+"ai" = "IA";
+"start_conversation" = "Iniciar una nueva conversación";
+"type_to_begin" = "Escriba un mensaje para comenzar a chatear con su asistente de IA";
+"no_messages" = "Aún no hay mensajes";
+"message_placeholder" = "Pregúntame cualquier cosa...";
+
+// Sidebar
+"conversations" = "Conversaciones";
+"documents" = "Documentos";
+"favorites" = "Favoritos";
+"trash" = "Papelera";
+"toggle_sidebar" = "Alternar Barra Lateral";
+"search_conversations" = "Buscar conversaciones...";
+"no_conversations" = "Aún no hay conversaciones";
+"no_documents" = "Aún no hay documentos";
+"today" = "Hoy";
+"yesterday" = "Ayer";
+"this_week" = "Esta Semana";
+"this_month" = "Este Mes";
+"older" = "Más Antiguo";
+
+// Documents
+"import_document" = "Importar Documento";
+"export_document" = "Exportar Documento";
+"document_details" = "Detalles del Documento";
+"document_name" = "Nombre del Documento";
+"document_type" = "Tipo de Documento";
+"document_size" = "Tamaño del Documento";
+"document_date" = "Fecha del Documento";
+"document_tags" = "Etiquetas del Documento";
+"add_tag" = "Añadir Etiqueta";
+"remove_tag" = "Eliminar Etiqueta";
+"processing_document" = "Procesando Documento...";
+"document_processed" = "Documento Procesado";
+"document_processing_error" = "Error al Procesar el Documento";
+"drag_drop_documents" = "Arrastre y suelte documentos aquí";
+"supported_formats" = "Formatos soportados: PDF, DOCX, TXT, RTF, HTML";
+
+// Settings
+"general" = "General";
+"appearance" = "Apariencia";
+"privacy" = "Privacidad";
+"notifications" = "Notificaciones";
+"advanced" = "Avanzado";
+"plugins" = "Complementos";
+"language" = "Idioma";
+"theme" = "Tema";
+"font_size" = "Tamaño de Fuente";
+"show_timestamps" = "Mostrar Marcas de Tiempo";
+"save_chat_history" = "Guardar Historial de Chat";
+"clear_all_data" = "Borrar Todos los Datos";
+"export_all_data" = "Exportar Todos los Datos";
+"check_for_updates" = "Buscar Actualizaciones";
+"auto_updates" = "Actualizaciones Automáticas";
+"enable_analytics" = "Habilitar Análisis";
+"enable_crash_reports" = "Habilitar Informes de Fallos";
+"use_system_appearance" = "Usar Apariencia del Sistema";
+"dark_mode" = "Modo Oscuro";
+"light_mode" = "Modo Claro";
+"custom_theme" = "Tema Personalizado";
+"primary_color" = "Color Primario";
+"accent_color" = "Color de Acento";
+"background_color" = "Color de Fondo";
+"text_color" = "Color de Texto";
+"reset_to_defaults" = "Restablecer a Valores Predeterminados";
+
+// AI Providers
+"ai_providers" = "Proveedores de IA";
+"add_provider" = "Añadir Proveedor";
+"edit_provider" = "Editar Proveedor";
+"remove_provider" = "Eliminar Proveedor";
+"provider_name" = "Nombre del Proveedor";
+"api_key" = "Clave API";
+"model" = "Modelo";
+"temperature" = "Temperatura";
+"max_tokens" = "Máximo de Tokens";
+"top_p" = "Top P";
+"frequency_penalty" = "Penalización de Frecuencia";
+"presence_penalty" = "Penalización de Presencia";
+"system_prompt" = "Prompt del Sistema";
+"default_provider" = "Proveedor Predeterminado";
+
+// Plugins
+"available_plugins" = "Complementos Disponibles";
+"enabled_plugins" = "Complementos Habilitados";
+"install_plugin" = "Instalar Complemento";
+"uninstall_plugin" = "Desinstalar Complemento";
+"enable_plugin" = "Habilitar Complemento";
+"disable_plugin" = "Deshabilitar Complemento";
+"plugin_details" = "Detalles del Complemento";
+"plugin_name" = "Nombre del Complemento";
+"plugin_version" = "Versión del Complemento";
+"plugin_author" = "Autor del Complemento";
+"plugin_description" = "Descripción del Complemento";
+"plugin_permissions" = "Permisos del Complemento";
+"plugin_capabilities" = "Capacidades del Complemento";
+"plugin_settings" = "Ajustes del Complemento";
+"plugin_marketplace" = "Mercado de Complementos";
+"no_plugins_found" = "No se encontraron complementos";
+"search_plugins" = "Buscar complementos...";
+
+// Onboarding
+"welcome" = "Bienvenido a AI Companion";
+"welcome_subtitle" = "Su asistente personal de IA para macOS";
+"welcome_description" = "AI Companion le ayuda con tareas, responde preguntas y asiste con su trabajo utilizando tecnología avanzada de IA.";
+"features" = "Descubrir Características";
+"features_subtitle" = "Explore las potentes características de AI Companion";
+"ai_providers_onboarding" = "Proveedores de IA";
+"ai_providers_subtitle" = "Elija entre múltiples proveedores de IA o añada el suyo propio";
+"privacy_onboarding" = "Privacidad y Seguridad";
+"privacy_subtitle" = "Conozca cómo protegemos sus datos y privacidad";
+"complete" = "¡Todo Listo!";
+"complete_subtitle" = "Está listo para comenzar a usar AI Companion";
+"get_started" = "Comenzar";
+"skip" = "Omitir";
+
+// Accessibility
+"accessibility_settings" = "Ajustes de Accesibilidad";
+"larger_text" = "Texto Más Grande";
+"high_contrast" = "Alto Contraste";
+"reduce_motion" = "Reducir Movimiento";
+"reduce_transparency" = "Reducir Transparencia";
+"voiceover_descriptions" = "Descripciones de VoiceOver";
+"font_size_multiplier" = "Multiplicador de Tamaño de Fuente";
+"accessibility_help" = "Ayuda de Accesibilidad";
+
+// Function Calls and Tool Use
+"function_call" = "Llamada a Función";
+"tool_use" = "Uso de Herramienta";
+"parameters" = "Parámetros";
+"result" = "Resultado";
+"status" = "Estado";
+"pending" = "Pendiente";
+"in_progress" = "En Progreso";
+"completed" = "Completado";
+"failed" = "Fallido";
+
+// Multi-modal
+"image" = "Imagen";
+"audio" = "Audio";
+"video" = "Video";
+"document" = "Documento";
+"save_media" = "Guardar";
+"share_media" = "Compartir";
+"expand" = "Expandir";
+"play" = "Reproducir";
+"pause" = "Pausar";
+"stop" = "Detener";
+"volume" = "Volumen";
+
+// Errors
+"network_error" = "Error de Red";
+"connection_lost" = "Conexión Perdida";
+"try_again" = "Intentar de Nuevo";
+"unknown_error" = "Error Desconocido";
+"permission_denied" = "Permiso Denegado";
+"file_not_found" = "Archivo No Encontrado";
+"invalid_format" = "Formato Inválido";
+"operation_failed" = "Operación Fallida";
+
+// Updates
+"update_available" = "Actualización Disponible";
+"update_now" = "Actualizar Ahora";
+"later" = "Más Tarde";
+"current_version" = "Versión Actual";
+"new_version" = "Nueva Versión";
+"whats_new" = "Novedades";
+"checking_for_updates" = "Buscando Actualizaciones...";
+"up_to_date" = "Actualizado";
+"update_failed" = "Actualización Fallida";
+
+// Keyboard Shortcuts
+"keyboard_shortcuts" = "Atajos de Teclado";
+"shortcut_new_chat" = "Nueva Conversación (⌘N)";
+"shortcut_export_chat" = "Exportar Conversación (⇧⌘E)";
+"shortcut_clear_chat" = "Limpiar Conversación (⇧⌘K)";
+"shortcut_toggle_sidebar" = "Alternar Barra Lateral (⇧⌘S)";
+"shortcut_settings" = "Ajustes (⌘,)";
+"shortcut_send" = "Enviar Mensaje (⌘↩)";
+"shortcut_stop" = "Detener Generación (Esc)";
+"shortcut_regenerate" = "Regenerar Respuesta (⇧⌘R)";
+"shortcut_voice_input" = "Entrada de Voz (⌘M)";
+"shortcut_stop_voice" = "Detener Entrada de Voz (⌘.)";
+"shortcut_search" = "Buscar (⌘F)";
+"shortcut_copy" = "Copiar (⌘C)";
+"shortcut_paste" = "Pegar (⌘V)";
+"shortcut_select_all" = "Seleccionar Todo (⌘A)";
+"shortcut_import_document" = "Importar Documento (⌘I)";
+"shortcut_import_plugin" = "Importar Complemento (⇧⌘I)";

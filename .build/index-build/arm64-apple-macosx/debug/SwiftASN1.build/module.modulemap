@@ -1,0 +1,4 @@
+module SwiftASN1 {
+    header "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/SwiftASN1.build/SwiftASN1-Swift.h"
+    requires objc
+}

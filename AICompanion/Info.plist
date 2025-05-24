@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleURLTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleTypeRole</key>
+            <string>Editor</string>
+            <key>CFBundleURLName</key>
+            <string>com.aicompanion</string>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <string>aicompanion</string>
+            </array>
+        </dict>
+    </array>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>We need access to your microphone to enable voice input for the AI Companion.</string>
+    <key>NSSpeechRecognitionUsageDescription</key>
+    <string>We need speech recognition to convert your voice to text for the AI Companion.</string>
+</dict>
+</plist>
