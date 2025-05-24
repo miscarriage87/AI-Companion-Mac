@@ -41,15 +41,11 @@ struct ConversationSummary: Codable, Identifiable {
 extension Conversation {
     /// Get all summaries for this conversation
     var summaries: [ConversationSummary] {
-        // In a real implementation, this would fetch from storage
-        // For now, return an empty array
-        return []
+        return ConversationManager.shared.summaries[id] ?? []
     }
     
     /// Get the latest summary for this conversation
     var latestSummary: ConversationSummary? {
-        // In a real implementation, this would fetch from storage
-        // For now, return nil
         return summaries.sorted(by: { $0.createdAt > $1.createdAt }).first
     }
     

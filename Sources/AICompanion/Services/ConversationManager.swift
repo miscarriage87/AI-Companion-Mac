@@ -11,19 +11,40 @@ class ConversationManager {
     
     /// Current conversation
     @Published private(set) var currentConversation: Conversation
-    
+
     /// All conversations
     @Published private(set) var conversations: [Conversation] = []
+
+    /// Cached summaries keyed by conversation ID
+    var summaries: [UUID: [ConversationSummary]] = [:]
+
+    /// URL for storing conversations
+    private let conversationsURL: URL
+
+    /// URL for storing summaries
+    private let summariesURL: URL
     
     // MARK: - Initialization
-    
-    private init() {
-        // Create a new conversation
-        currentConversation = Conversation(id: UUID(), title: "New Conversation", messages: [])
-        conversations = [currentConversation]
-        
-        // Load conversations from storage
+
+    /// Initialize a conversation manager
+    /// - Parameter directory: Optional directory for persistence (mainly for testing)
+    init(directory: URL? = nil) {
+        let baseDir = directory ?? FileManager.default.urls(for: .applicationSupportDirectory, in: .userDomainMask).first!.appendingPathComponent("AICompanion")
+        try? FileManager.default.createDirectory(at: baseDir, withIntermediateDirectories: true)
+        self.conversationsURL = baseDir.appendingPathComponent("conversations.json")
+        self.summariesURL = baseDir.appendingPathComponent("summaries.json")
+
+        // Load stored conversations and summaries
+        self.conversations = []
+        self.currentConversation = Conversation(id: UUID(), title: "New Conversation", messages: [])
         loadConversations()
+        loadSummaries()
+
+        if conversations.isEmpty {
+            conversations = [currentConversation]
+        } else {
+            currentConversation = conversations[0]
+        }
     }
     
     // MARK: - Conversation Management
@@ -305,9 +326,17 @@ class ConversationManager {
     
     /// Save a summary to storage
     /// - Parameter summary: The summary to save
-    private func saveSummary(_ summary: ConversationSummary) {
-        // TODO: Implement actual persistence
-        print("Saving summary: \(summary.content.prefix(50))...")
+    func saveSummary(_ summary: ConversationSummary) {
+        var array = summaries[summary.conversationId] ?? []
+        array.append(summary)
+        summaries[summary.conversationId] = array
+
+        do {
+            let data = try JSONEncoder().encode(summaries)
+            try data.write(to: summariesURL, options: .atomic)
+        } catch {
+            print("Error saving summary: \(error)")
+        }
     }
     
     /// Check if a conversation needs summarization
@@ -402,17 +431,27 @@ class ConversationManager {
     
     /// Save conversations to storage
     private func saveConversations() {
-        // TODO: Implement actual persistence
-        // For now, just print the number of conversations
-        print("Saving \(conversations.count) conversations")
+        do {
+            let data = try JSONEncoder().encode(conversations)
+            try data.write(to: conversationsURL, options: .atomic)
+        } catch {
+            print("Error saving conversations: \(error)")
+        }
     }
     
     /// Load conversations from storage
     private func loadConversations() {
-        // TODO: Implement actual persistence
-        // For now, just create a sample conversation if none exist
-        if conversations.isEmpty {
-            createNewConversation()
+        guard let data = try? Data(contentsOf: conversationsURL) else { return }
+        if let loaded = try? JSONDecoder().decode([Conversation].self, from: data) {
+            conversations = loaded
+        }
+    }
+
+    /// Load summaries from storage
+    private func loadSummaries() {
+        guard let data = try? Data(contentsOf: summariesURL) else { return }
+        if let loaded = try? JSONDecoder().decode([UUID: [ConversationSummary]].self, from: data) {
+            summaries = loaded
         }
     }
 }
