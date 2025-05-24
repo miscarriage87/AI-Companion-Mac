@@ -42,7 +42,12 @@ class AuthService: ObservableObject {
         do {
             let authResponse = try await supabase.auth.signUp(email: email, password: password)
             // In Supabase v2, signUp returns AuthSession? or Session?
-            self.session = authResponse
+            if let session = authResponse.session {
+                self.session = session
+            } else {
+                // Handle the case where session is not available
+                throw NSError(domain: "AuthService", code: 1, userInfo: [NSLocalizedDescriptionKey: "Session not available in authResponse"])
+            }
             authState = .signedIn
         } catch {
             authState = .error(error)
@@ -54,7 +59,12 @@ class AuthService: ObservableObject {
         authState = .loading
         do {
             let authResponse = try await supabase.auth.signIn(email: email, password: password)
-            self.session = authResponse
+            if let session = authResponse.session {
+                self.session = session
+            } else {
+                // Handle the case where session is not available
+                throw NSError(domain: "AuthService", code: 1, userInfo: [NSLocalizedDescriptionKey: "Session not available in authResponse"])
+            }
             authState = .signedIn
         } catch {
             authState = .error(error)
@@ -106,7 +116,7 @@ class AuthService: ObservableObject {
     func updatePassword(newPassword: String) async throws {
         do {
             // In Supabase v2, password update is done via updateUser
-            try await supabase.auth.updateUser(attributes: UserAttributes(password: newPassword))
+            try await supabase.from("users").update(["password": newPassword]).eq("id", value: self.session?.user.id).execute()
         } catch {
             throw error
         }
