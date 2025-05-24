@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/AICompanionPackageTests.build/master.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/AICompanionPackageTests.derived/runner.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/AICompanionPackageTests.build/runner.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/AICompanionPackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/AICompanionPackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/AICompanionPackageTests.build/runner.swiftdeps"
+  }
+}

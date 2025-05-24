@@ -1,0 +1,809 @@
+{
+  "": {
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/master.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/OpenAI+OpenAIAsync.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAI+OpenAIAsync.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAI+OpenAIAsync.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAI+OpenAIAsync~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAI+OpenAIAsync.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/OpenAI+OpenAICombine.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAI+OpenAICombine.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAI+OpenAICombine.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAI+OpenAICombine~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAI+OpenAICombine.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/OpenAI.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAI.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAI.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAI~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAI.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/AssistantsRequest.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AssistantsRequest.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AssistantsRequest.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AssistantsRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AssistantsRequest.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/CancellablesFactory.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CancellablesFactory.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CancellablesFactory.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CancellablesFactory~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CancellablesFactory.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/Client/AsyncClient.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AsyncClient.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AsyncClient.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AsyncClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AsyncClient.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/Client/Client.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/Client.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/Client.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/Client~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/Client.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/Client/CombineClient.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CombineClient.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CombineClient.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CombineClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CombineClient.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/Client/StreamingClient.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/StreamingClient.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/StreamingClient.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/StreamingClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/StreamingClient.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/CodingUserInfoKey+ParsingOptions.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CodingUserInfoKey+ParsingOptions.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CodingUserInfoKey+ParsingOptions.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CodingUserInfoKey+ParsingOptions~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CodingUserInfoKey+ParsingOptions.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/DataTaskFactory.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/DataTaskFactory.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/DataTaskFactory.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/DataTaskFactory~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/DataTaskFactory.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/DescribedError.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/DescribedError.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/DescribedError.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/DescribedError~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/DescribedError.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/DispatchQueue+Static.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/DispatchQueue+Static.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/DispatchQueue+Static.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/DispatchQueue+Static~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/DispatchQueue+Static.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/ExecutionSerializer.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ExecutionSerializer.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ExecutionSerializer.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ExecutionSerializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ExecutionSerializer.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/Extensions for generated code/Schemas+Description.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/Schemas+Description.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/Schemas+Description.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/Schemas+Description~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/Schemas+Description.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/JSONRequest.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONRequest.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONRequest.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONRequest.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/JSONResponseErrorDecoder.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONResponseErrorDecoder.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONResponseErrorDecoder.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONResponseErrorDecoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONResponseErrorDecoder.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/KeyedDecodingContainer+ParsingOptions.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/KeyedDecodingContainer+ParsingOptions.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/KeyedDecodingContainer+ParsingOptions.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/KeyedDecodingContainer+ParsingOptions~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/KeyedDecodingContainer+ParsingOptions.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/MultipartFormDataBodyBuilder.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/MultipartFormDataBodyBuilder.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/MultipartFormDataBodyBuilder.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/MultipartFormDataBodyBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/MultipartFormDataBodyBuilder.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/MultipartFormDataBodyEncodable.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/MultipartFormDataBodyEncodable.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/MultipartFormDataBodyEncodable.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/MultipartFormDataBodyEncodable~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/MultipartFormDataBodyEncodable.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/MultipartFormDataEntry.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/MultipartFormDataEntry.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/MultipartFormDataEntry.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/MultipartFormDataEntry~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/MultipartFormDataEntry.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/MultipartFormDataRequest.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/MultipartFormDataRequest.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/MultipartFormDataRequest.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/MultipartFormDataRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/MultipartFormDataRequest.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/OpenAI+MakeRequest.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAI+MakeRequest.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAI+MakeRequest.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAI+MakeRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAI+MakeRequest.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/SSLDelegateProtocol.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/SSLDelegateProtocol.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/SSLDelegateProtocol.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/SSLDelegateProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/SSLDelegateProtocol.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/SendablePassthroughSubject.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/SendablePassthroughSubject.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/SendablePassthroughSubject.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/SendablePassthroughSubject~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/SendablePassthroughSubject.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/StreamableQuery.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/StreamableQuery.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/StreamableQuery.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/StreamableQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/StreamableQuery.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/Streaming/AudioSpeechStreamInterpreter.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioSpeechStreamInterpreter.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioSpeechStreamInterpreter.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioSpeechStreamInterpreter~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioSpeechStreamInterpreter.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/Streaming/CodableResultStreamInterpreter.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CodableResultStreamInterpreter.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CodableResultStreamInterpreter.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CodableResultStreamInterpreter~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CodableResultStreamInterpreter.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/Streaming/DataTaskPerformingURLSession.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/DataTaskPerformingURLSession.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/DataTaskPerformingURLSession.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/DataTaskPerformingURLSession~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/DataTaskPerformingURLSession.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/Streaming/InvalidatableSession.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/InvalidatableSession.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/InvalidatableSession.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/InvalidatableSession~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/InvalidatableSession.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/Streaming/ModelResponseEventsStreamInterpreter.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModelResponseEventsStreamInterpreter.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModelResponseEventsStreamInterpreter.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModelResponseEventsStreamInterpreter~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModelResponseEventsStreamInterpreter.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/Streaming/ModelResponseStreamEventType.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModelResponseStreamEventType.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModelResponseStreamEventType.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModelResponseStreamEventType~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModelResponseStreamEventType.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/Streaming/PerformableSession.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/PerformableSession.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/PerformableSession.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/PerformableSession~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/PerformableSession.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/Streaming/ServerSentEventsStreamInterpreter.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ServerSentEventsStreamInterpreter.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ServerSentEventsStreamInterpreter.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ServerSentEventsStreamInterpreter~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ServerSentEventsStreamInterpreter.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/Streaming/ServerSentEventsStreamParser.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ServerSentEventsStreamParser.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ServerSentEventsStreamParser.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ServerSentEventsStreamParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ServerSentEventsStreamParser.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/Streaming/ServerSentEventsStreamingSessionFactory.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ServerSentEventsStreamingSessionFactory.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ServerSentEventsStreamingSessionFactory.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ServerSentEventsStreamingSessionFactory~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ServerSentEventsStreamingSessionFactory.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/Streaming/SessionInvalidator.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/SessionInvalidator.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/SessionInvalidator.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/SessionInvalidator~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/SessionInvalidator.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/Streaming/StreamingError.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/StreamingError.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/StreamingError.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/StreamingError~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/StreamingError.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/Streaming/StreamingSession.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/StreamingSession.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/StreamingSession.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/StreamingSession~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/StreamingSession.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/URLBuilder.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLBuilder.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLBuilder.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLBuilder.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/URLComponents+.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLComponents+.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLComponents+.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLComponents+~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLComponents+.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/URLRequestBuildable.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLRequestBuildable.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLRequestBuildable.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLRequestBuildable~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLRequestBuildable.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/URLSessionCombine.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionCombine.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionCombine.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionCombine~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionCombine.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/URLSessionDataDelegateForwarder.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionDataDelegateForwarder.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionDataDelegateForwarder.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionDataDelegateForwarder~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionDataDelegateForwarder.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/URLSessionDataTaskProtocol.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionDataTaskProtocol.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionDataTaskProtocol.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionDataTaskProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionDataTaskProtocol.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/URLSessionDataTaskPublisherProtocol.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionDataTaskPublisherProtocol.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionDataTaskPublisherProtocol.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionDataTaskPublisherProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionDataTaskPublisherProtocol.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/URLSessionDataTaskStore.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionDataTaskStore.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionDataTaskStore.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionDataTaskStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionDataTaskStore.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/URLSessionDelegateProtocol.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionDelegateProtocol.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionDelegateProtocol.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionDelegateProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionDelegateProtocol.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/URLSessionFactory.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionFactory.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionFactory.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionFactory~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionFactory.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/URLSessionProtocol+MakeDataTask.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionProtocol+MakeDataTask.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionProtocol+MakeDataTask.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionProtocol+MakeDataTask~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionProtocol+MakeDataTask.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/URLSessionProtocol.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionProtocol.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionProtocol.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionProtocol.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Private/URLSessionTaskCanceller.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionTaskCanceller.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionTaskCanceller.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionTaskCanceller~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/URLSessionTaskCanceller.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Errors/APIError.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/APIError.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/APIError.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/APIError~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/APIError.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Errors/GeminiAPIError.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/GeminiAPIError.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/GeminiAPIError.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/GeminiAPIError~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/GeminiAPIError.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/JSONSchema/AnyJSONDocument.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AnyJSONDocument.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AnyJSONDocument.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AnyJSONDocument~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AnyJSONDocument.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/JSONSchema/AnyJSONSchema.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AnyJSONSchema.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AnyJSONSchema.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AnyJSONSchema~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AnyJSONSchema.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/JSONSchema/JSONDocument.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONDocument.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONDocument.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONDocument~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONDocument.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/JSONSchema/JSONSchema.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONSchema.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONSchema.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONSchema~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONSchema.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/JSONSchema/JSONSchemaField.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONSchemaField.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONSchemaField.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONSchemaField~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONSchemaField.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/JSONSchema/JSONSchemaInstanceType.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONSchemaInstanceType.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONSchemaInstanceType.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONSchemaInstanceType~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONSchemaInstanceType.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/AssistantResult.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AssistantResult.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AssistantResult.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AssistantResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AssistantResult.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/AssistantsQuery.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AssistantsQuery.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AssistantsQuery.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AssistantsQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AssistantsQuery.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/AssistantsResult.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AssistantsResult.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AssistantsResult.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AssistantsResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AssistantsResult.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/AssistantsTool.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AssistantsTool.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AssistantsTool.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AssistantsTool~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AssistantsTool.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/AudioSpeechQuery.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioSpeechQuery.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioSpeechQuery.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioSpeechQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioSpeechQuery.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/AudioSpeechResult.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioSpeechResult.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioSpeechResult.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioSpeechResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioSpeechResult.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/AudioTranscriptionQuery.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioTranscriptionQuery.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioTranscriptionQuery.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioTranscriptionQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioTranscriptionQuery.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/AudioTranscriptionResult.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioTranscriptionResult.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioTranscriptionResult.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioTranscriptionResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioTranscriptionResult.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/AudioTranscriptionStreamResult.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioTranscriptionStreamResult.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioTranscriptionStreamResult.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioTranscriptionStreamResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioTranscriptionStreamResult.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/AudioTranslationQuery.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioTranslationQuery.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioTranslationQuery.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioTranslationQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioTranslationQuery.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/AudioTranslationResult.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioTranslationResult.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioTranslationResult.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioTranslationResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/AudioTranslationResult.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/ChatQuery.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ChatQuery.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ChatQuery.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ChatQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ChatQuery.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/ChatResult.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ChatResult.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ChatResult.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ChatResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ChatResult.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/ChatStreamResult.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ChatStreamResult.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ChatStreamResult.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ChatStreamResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ChatStreamResult.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/EmbeddingsQuery.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/EmbeddingsQuery.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/EmbeddingsQuery.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/EmbeddingsQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/EmbeddingsQuery.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/EmbeddingsResult.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/EmbeddingsResult.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/EmbeddingsResult.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/EmbeddingsResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/EmbeddingsResult.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/FilesQuery.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/FilesQuery.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/FilesQuery.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/FilesQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/FilesQuery.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/FilesResult.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/FilesResult.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/FilesResult.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/FilesResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/FilesResult.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/FunctionDeclaration.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/FunctionDeclaration.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/FunctionDeclaration.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/FunctionDeclaration~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/FunctionDeclaration.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/ImageEditsQuery.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ImageEditsQuery.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ImageEditsQuery.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ImageEditsQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ImageEditsQuery.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/ImageVariationsQuery.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ImageVariationsQuery.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ImageVariationsQuery.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ImageVariationsQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ImageVariationsQuery.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/ImagesQuery.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ImagesQuery.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ImagesQuery.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ImagesQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ImagesQuery.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/ImagesResult.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ImagesResult.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ImagesResult.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ImagesResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ImagesResult.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/JSONSchemaConvertible.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONSchemaConvertible.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONSchemaConvertible.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONSchemaConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONSchemaConvertible.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/JSONSchemaEnumConvertible.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONSchemaEnumConvertible.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONSchemaEnumConvertible.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONSchemaEnumConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/JSONSchemaEnumConvertible.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/MessageQuery.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/MessageQuery.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/MessageQuery.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/MessageQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/MessageQuery.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/Models/ModelQuery.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModelQuery.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModelQuery.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModelQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModelQuery.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/Models/ModelResult.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModelResult.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModelResult.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModelResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModelResult.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/Models/Models.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/Models.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/Models.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/Models~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/Models.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/Models/ModelsResult.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModelsResult.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModelsResult.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModelsResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModelsResult.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/ModerationsQuery.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModerationsQuery.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModerationsQuery.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModerationsQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModerationsQuery.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/ModerationsResult.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModerationsResult.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModerationsResult.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModerationsResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ModerationsResult.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/Responses/CreateModelResponseQuery.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CreateModelResponseQuery.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CreateModelResponseQuery.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CreateModelResponseQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CreateModelResponseQuery.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/Responses/CreateModelResponseQueryInput.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CreateModelResponseQueryInput.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CreateModelResponseQueryInput.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CreateModelResponseQueryInput~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CreateModelResponseQueryInput.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/Responses/DeleteModelResponseQuery.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/DeleteModelResponseQuery.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/DeleteModelResponseQuery.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/DeleteModelResponseQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/DeleteModelResponseQuery.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/Responses/DeleteModelResponseResult.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/DeleteModelResponseResult.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/DeleteModelResponseResult.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/DeleteModelResponseResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/DeleteModelResponseResult.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/Responses/GetModelResponseQuery.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/GetModelResponseQuery.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/GetModelResponseQuery.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/GetModelResponseQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/GetModelResponseQuery.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/Responses/ResponseEvent.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponseEvent.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponseEvent.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponseEvent~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponseEvent.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/Responses/ResponseObject.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponseObject.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponseObject.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponseObject~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponseObject.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/RunResult.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/RunResult.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/RunResult.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/RunResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/RunResult.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/RunRetrieveQuery.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/RunRetrieveQuery.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/RunRetrieveQuery.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/RunRetrieveQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/RunRetrieveQuery.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/RunRetrieveStepsResult.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/RunRetrieveStepsResult.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/RunRetrieveStepsResult.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/RunRetrieveStepsResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/RunRetrieveStepsResult.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/RunToolOutputsQuery.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/RunToolOutputsQuery.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/RunToolOutputsQuery.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/RunToolOutputsQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/RunToolOutputsQuery.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/RunsQuery.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/RunsQuery.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/RunsQuery.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/RunsQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/RunsQuery.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/ThreadAddMessagesResult.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ThreadAddMessagesResult.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ThreadAddMessagesResult.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ThreadAddMessagesResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ThreadAddMessagesResult.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/ThreadRunQuery.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ThreadRunQuery.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ThreadRunQuery.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ThreadRunQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ThreadRunQuery.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/ThreadsMessagesResult.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ThreadsMessagesResult.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ThreadsMessagesResult.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ThreadsMessagesResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ThreadsMessagesResult.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/ThreadsQuery.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ThreadsQuery.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ThreadsQuery.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ThreadsQuery~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ThreadsQuery.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Models/ThreadsResult.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ThreadsResult.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ThreadsResult.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ThreadsResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ThreadsResult.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Protocols/CancellableRequest.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CancellableRequest.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CancellableRequest.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CancellableRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/CancellableRequest.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Protocols/OpenAIAsync.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAIAsync.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAIAsync.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAIAsync~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAIAsync.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Protocols/OpenAICombine.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAICombine.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAICombine.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAICombine~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAICombine.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Protocols/OpenAIMiddleware.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAIMiddleware.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAIMiddleware.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAIMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAIMiddleware.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Protocols/OpenAIProtocol.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAIProtocol.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAIProtocol.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAIProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OpenAIProtocol.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Protocols/ResponsesEndpointAsync.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpointAsync.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpointAsync.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpointAsync~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpointAsync.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Protocols/ResponsesEndpointCombine.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpointCombine.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpointCombine.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpointCombine~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpointCombine.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Protocols/ResponsesEndpointModern.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpointModern.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpointModern.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpointModern~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpointModern.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Protocols/ResponsesEndpointProtocol.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpointProtocol.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpointProtocol.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpointProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpointProtocol.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Schemas/Edited/EasyInputMessage.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/EasyInputMessage.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/EasyInputMessage.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/EasyInputMessage~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/EasyInputMessage.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Schemas/Edited/FunctionTool.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/FunctionTool.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/FunctionTool.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/FunctionTool~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/FunctionTool.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Schemas/Edited/InputContent.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/InputContent.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/InputContent.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/InputContent~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/InputContent.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Schemas/Edited/InputImage.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/InputImage.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/InputImage.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/InputImage~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/InputImage.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Schemas/Edited/InputItem.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/InputItem.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/InputItem.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/InputItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/InputItem.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Schemas/Edited/ResponseOutputItemAddedEvent.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponseOutputItemAddedEvent.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponseOutputItemAddedEvent.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponseOutputItemAddedEvent~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponseOutputItemAddedEvent.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Schemas/Edited/ResponseOutputItemDoneEvent.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponseOutputItemDoneEvent.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponseOutputItemDoneEvent.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponseOutputItemDoneEvent~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponseOutputItemDoneEvent.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Schemas/Edited/Tool.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/Tool.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/Tool.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/Tool~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/Tool.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Schemas/Facade/OutputItem.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OutputItem.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OutputItem.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OutputItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/OutputItem.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Schemas/Facade/ResponseStreamEvent.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponseStreamEvent.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponseStreamEvent.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponseStreamEvent~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponseStreamEvent.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Schemas/Generated/Components.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/Components.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/Components.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/Components~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/Components.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Utilities/ParsingOptions.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ParsingOptions.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ParsingOptions.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ParsingOptions~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ParsingOptions.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/Public/Utilities/Utilities.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/Utilities.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/Utilities.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/Utilities~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/Utilities.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/ResponsesEndpoint+Async.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpoint+Async.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpoint+Async.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpoint+Async~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpoint+Async.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/ResponsesEndpoint+Combine.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpoint+Combine.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpoint+Combine.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpoint+Combine~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpoint+Combine.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/OpenAI/Sources/OpenAI/ResponsesEndpoint.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpoint.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpoint.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpoint~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/OpenAI.build/ResponsesEndpoint.swiftdeps"
+  }
+}

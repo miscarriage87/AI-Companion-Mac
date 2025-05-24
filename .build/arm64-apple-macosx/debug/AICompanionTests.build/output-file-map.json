@@ -1,0 +1,71 @@
+{
+  "": {
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/master.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/Tests/ARCompanionTests.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/ARCompanionTests.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/ARCompanionTests.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/ARCompanionTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/ARCompanionTests.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/Tests/CalculatorPluginTests.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/CalculatorPluginTests.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/CalculatorPluginTests.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/CalculatorPluginTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/CalculatorPluginTests.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/Tests/CollaborationManagerTests.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/CollaborationManagerTests.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/CollaborationManagerTests.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/CollaborationManagerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/CollaborationManagerTests.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/Tests/ContextManagerTests.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/ContextManagerTests.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/ContextManagerTests.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/ContextManagerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/ContextManagerTests.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/Tests/ConversationManagerPersistenceTests.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/ConversationManagerPersistenceTests.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/ConversationManagerPersistenceTests.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/ConversationManagerPersistenceTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/ConversationManagerPersistenceTests.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/Tests/PersonalizationManagerTests.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/PersonalizationManagerTests.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/PersonalizationManagerTests.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/PersonalizationManagerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/PersonalizationManagerTests.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/Tests/SmartSchedulerTests.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/SmartSchedulerTests.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/SmartSchedulerTests.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/SmartSchedulerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/SmartSchedulerTests.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/Tests/TaskPrioritizerTests.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/TaskPrioritizerTests.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/TaskPrioritizerTests.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/TaskPrioritizerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/TaskPrioritizerTests.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/Tests/UpdateManagerTests.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/UpdateManagerTests.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/UpdateManagerTests.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/UpdateManagerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/UpdateManagerTests.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/Tests/UserBehaviorAnalyzerTests.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/UserBehaviorAnalyzerTests.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/UserBehaviorAnalyzerTests.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/UserBehaviorAnalyzerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/UserBehaviorAnalyzerTests.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/Tests/WeatherPluginTests.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/WeatherPluginTests.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/WeatherPluginTests.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/WeatherPluginTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/AICompanionTests.build/WeatherPluginTests.swiftdeps"
+  }
+}

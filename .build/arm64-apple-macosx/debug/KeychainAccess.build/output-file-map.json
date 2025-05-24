@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/KeychainAccess.build/master.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/checkouts/KeychainAccess/Lib/KeychainAccess/Keychain.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/KeychainAccess.build/Keychain.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/KeychainAccess.build/Keychain.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/KeychainAccess.build/Keychain~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/KeychainAccess.build/Keychain.swiftdeps"
+  }
+}

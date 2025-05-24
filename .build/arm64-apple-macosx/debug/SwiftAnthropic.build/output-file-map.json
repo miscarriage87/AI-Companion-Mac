@@ -1,0 +1,137 @@
+{
+  "": {
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/master.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/checkouts/SwiftAnthropic/Sources/Anthropic/AIProxy/AIProxyCertificatePinning.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/AIProxyCertificatePinning.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/AIProxyCertificatePinning.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/AIProxyCertificatePinning~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/AIProxyCertificatePinning.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/checkouts/SwiftAnthropic/Sources/Anthropic/AIProxy/AIProxyService.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/AIProxyService.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/AIProxyService.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/AIProxyService~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/AIProxyService.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/checkouts/SwiftAnthropic/Sources/Anthropic/AIProxy/Endpoint+AIProxy.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/Endpoint+AIProxy.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/Endpoint+AIProxy.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/Endpoint+AIProxy~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/Endpoint+AIProxy.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/checkouts/SwiftAnthropic/Sources/Anthropic/Private/Network/AnthropicAPI.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/AnthropicAPI.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/AnthropicAPI.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/AnthropicAPI~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/AnthropicAPI.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/checkouts/SwiftAnthropic/Sources/Anthropic/Private/Network/Endpoint.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/Endpoint.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/Endpoint.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/Endpoint~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/Endpoint.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/checkouts/SwiftAnthropic/Sources/Anthropic/Public/Model.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/Model.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/Model.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/Model~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/Model.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/checkouts/SwiftAnthropic/Sources/Anthropic/Public/Parameters/Message/JSONSchema.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/JSONSchema.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/JSONSchema.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/JSONSchema~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/JSONSchema.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/checkouts/SwiftAnthropic/Sources/Anthropic/Public/Parameters/Message/MessageParameter+Web.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageParameter+Web.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageParameter+Web.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageParameter+Web~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageParameter+Web.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/checkouts/SwiftAnthropic/Sources/Anthropic/Public/Parameters/Message/MessageParameter.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageParameter.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageParameter.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageParameter~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageParameter.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/checkouts/SwiftAnthropic/Sources/Anthropic/Public/Parameters/Message/MessageTokenCountParameter.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageTokenCountParameter.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageTokenCountParameter.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageTokenCountParameter~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageTokenCountParameter.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/checkouts/SwiftAnthropic/Sources/Anthropic/Public/Parameters/TextCompletion/TextCompletionParameter.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/TextCompletionParameter.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/TextCompletionParameter.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/TextCompletionParameter~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/TextCompletionParameter.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/checkouts/SwiftAnthropic/Sources/Anthropic/Public/ResponseModels/ErrorResponse.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/ErrorResponse.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/ErrorResponse.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/ErrorResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/ErrorResponse.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/checkouts/SwiftAnthropic/Sources/Anthropic/Public/ResponseModels/Message/MessageInputTokens.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageInputTokens.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageInputTokens.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageInputTokens~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageInputTokens.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/checkouts/SwiftAnthropic/Sources/Anthropic/Public/ResponseModels/Message/MessageResponse+DynamicContent.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageResponse+DynamicContent.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageResponse+DynamicContent.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageResponse+DynamicContent~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageResponse+DynamicContent.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/checkouts/SwiftAnthropic/Sources/Anthropic/Public/ResponseModels/Message/MessageResponse.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageResponse.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageResponse.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageResponse.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/checkouts/SwiftAnthropic/Sources/Anthropic/Public/ResponseModels/Message/MessageStreamResponse.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageStreamResponse.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageStreamResponse.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageStreamResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/MessageStreamResponse.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/checkouts/SwiftAnthropic/Sources/Anthropic/Public/ResponseModels/TextCompletion/TextCompletionResponse.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/TextCompletionResponse.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/TextCompletionResponse.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/TextCompletionResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/TextCompletionResponse.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/checkouts/SwiftAnthropic/Sources/Anthropic/Public/ResponseModels/TextCompletion/TextCompletionStreamResponse.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/TextCompletionStreamResponse.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/TextCompletionStreamResponse.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/TextCompletionStreamResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/TextCompletionStreamResponse.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/checkouts/SwiftAnthropic/Sources/Anthropic/Public/StreamHandler.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/StreamHandler.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/StreamHandler.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/StreamHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/StreamHandler.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/checkouts/SwiftAnthropic/Sources/Anthropic/Service/AnthropicService.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/AnthropicService.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/AnthropicService.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/AnthropicService~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/AnthropicService.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/checkouts/SwiftAnthropic/Sources/Anthropic/Service/AnthropicServiceFactory.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/AnthropicServiceFactory.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/AnthropicServiceFactory.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/AnthropicServiceFactory~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/AnthropicServiceFactory.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/checkouts/SwiftAnthropic/Sources/Anthropic/Service/DefaultAnthropicService.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/DefaultAnthropicService.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/DefaultAnthropicService.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/DefaultAnthropicService~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/arm64-apple-macosx/debug/SwiftAnthropic.build/DefaultAnthropicService.swiftdeps"
+  }
+}

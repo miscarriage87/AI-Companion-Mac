@@ -1,0 +1,239 @@
+{
+  "": {
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/master.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/ActorId.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/ActorId.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/ActorId.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/ActorId~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/ActorId.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/BoundTypes/AutomergeText.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeText.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeText.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeText~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeText.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/BoundTypes/Counter.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Counter.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Counter.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Counter~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Counter.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Change.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Change.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Change.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Change~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Change.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/ChangeHash.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/ChangeHash.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/ChangeHash.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/ChangeHash~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/ChangeHash.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Codable/AnyCodingKey.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AnyCodingKey.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AnyCodingKey.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AnyCodingKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AnyCodingKey.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Codable/BindingError.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/BindingError.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/BindingError.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/BindingError~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/BindingError.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Codable/Decoding/AutomergeDecoder.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeDecoder.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeDecoder.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeDecoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeDecoder.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Codable/Decoding/AutomergeDecoderImpl.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeDecoderImpl.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeDecoderImpl.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeDecoderImpl~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeDecoderImpl.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Codable/Decoding/AutomergeKeyedDecodingContainer.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeKeyedDecodingContainer.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeKeyedDecodingContainer.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeKeyedDecodingContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeKeyedDecodingContainer.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Codable/Decoding/AutomergeSingleValueDecodingContainer.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeSingleValueDecodingContainer.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeSingleValueDecodingContainer.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeSingleValueDecodingContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeSingleValueDecodingContainer.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Codable/Decoding/AutomergeUnkeyedDecodingContainer.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeUnkeyedDecodingContainer.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeUnkeyedDecodingContainer.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeUnkeyedDecodingContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeUnkeyedDecodingContainer.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Codable/Document+lookupPath.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Document+lookupPath.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Document+lookupPath.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Document+lookupPath~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Document+lookupPath.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Codable/Document+retrieveObjectId.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Document+retrieveObjectId.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Document+retrieveObjectId.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Document+retrieveObjectId~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Document+retrieveObjectId.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Codable/Encoding/AutomergeEncoder.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeEncoder.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeEncoder.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeEncoder.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Codable/Encoding/AutomergeEncoderImpl.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeEncoderImpl.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeEncoderImpl.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeEncoderImpl~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeEncoderImpl.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Codable/Encoding/AutomergeKeyedEncodingContainer.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeKeyedEncodingContainer.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeKeyedEncodingContainer.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeKeyedEncodingContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeKeyedEncodingContainer.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Codable/Encoding/AutomergeSingleValueEncodingContainer.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeSingleValueEncodingContainer.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeSingleValueEncodingContainer.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeSingleValueEncodingContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeSingleValueEncodingContainer.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Codable/Encoding/AutomergeUnkeyedEncodingContainer.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeUnkeyedEncodingContainer.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeUnkeyedEncodingContainer.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeUnkeyedEncodingContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/AutomergeUnkeyedEncodingContainer.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Codable/Encoding/CodingKeyLookupError.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/CodingKeyLookupError.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/CodingKeyLookupError.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/CodingKeyLookupError~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/CodingKeyLookupError.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Codable/EncodingContainerType.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/EncodingContainerType.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/EncodingContainerType.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/EncodingContainerType~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/EncodingContainerType.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Codable/SchemaStrategy.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/SchemaStrategy.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/SchemaStrategy.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/SchemaStrategy~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/SchemaStrategy.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Codable/TypeOfAutomergeValue.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/TypeOfAutomergeValue.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/TypeOfAutomergeValue.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/TypeOfAutomergeValue~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/TypeOfAutomergeValue.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Cursor.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Cursor.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Cursor.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Cursor~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Cursor.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Document+Transferable.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Document+Transferable.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Document+Transferable.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Document+Transferable~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Document+Transferable.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Document.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Document.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Document.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Document~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Document.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Errors.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Errors.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Errors.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Errors~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Errors.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/LogVerbosity.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/LogVerbosity.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/LogVerbosity.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/LogVerbosity~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/LogVerbosity.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Marks.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Marks.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Marks.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Marks~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Marks.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/ObjId.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/ObjId.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/ObjId.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/ObjId~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/ObjId.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/ObjType.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/ObjType.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/ObjType.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/ObjType~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/ObjType.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Patch.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Patch.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Patch.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Patch~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Patch.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/PathElement.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/PathElement.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/PathElement.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/PathElement~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/PathElement.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/ScalarValue.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/ScalarValue.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/ScalarValue.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/ScalarValue~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/ScalarValue.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/ScalarValueRepresentable.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/ScalarValueRepresentable.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/ScalarValueRepresentable.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/ScalarValueRepresentable~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/ScalarValueRepresentable.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/SyncState.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/SyncState.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/SyncState.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/SyncState~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/SyncState.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/TextEncoding.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/TextEncoding.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/TextEncoding.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/TextEncoding~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/TextEncoding.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/Value.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Value.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Value.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Value~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/Value.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/automerge-swift/Sources/Automerge/_AutomergeLinux.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/_AutomergeLinux.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/_AutomergeLinux.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/_AutomergeLinux~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Automerge.build/_AutomergeLinux.swiftdeps"
+  }
+}

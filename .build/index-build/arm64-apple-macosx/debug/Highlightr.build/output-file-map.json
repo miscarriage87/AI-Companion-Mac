@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/master.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/Highlightr/Pod/Classes/CodeAttributedString.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/CodeAttributedString.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/CodeAttributedString.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/CodeAttributedString~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/CodeAttributedString.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/Highlightr/Pod/Classes/HTMLUtils.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/HTMLUtils.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/HTMLUtils.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/HTMLUtils~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/HTMLUtils.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/Highlightr/Pod/Classes/Highlightr.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/Highlightr.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/Highlightr.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/Highlightr~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/Highlightr.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/Highlightr/Pod/Classes/Shims.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/Shims.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/Shims.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/Shims~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/Shims.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/checkouts/Highlightr/Pod/Classes/Theme.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/Theme.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/Theme.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/Theme~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/Theme.swiftdeps"
+  },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/resource_bundle_accessor.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Highlightr.build/resource_bundle_accessor.swiftdeps"
+  }
+}
