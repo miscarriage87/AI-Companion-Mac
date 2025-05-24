@@ -87,7 +87,7 @@ struct ChatView: View {
                     }
                     .padding(.horizontal)
                     .padding(.vertical, 8)
-                    .background(Color(.systemBackground).opacity(0.9))
+                    .background(Color(NSColor.windowBackgroundColor).opacity(0.9))
                     .cornerRadius(8)
                     .shadow(radius: 2)
                     .padding(.horizontal)
@@ -209,7 +209,7 @@ struct ChatView: View {
             .buttonStyle(.bordered)
         }
         .padding()
-        .background(Color(.systemBackground).shadow(radius: 2))
+        .background(Color(NSColor.windowBackgroundColor).shadow(radius: 2))
     }
     
     // MARK: - Chat Input Area
@@ -218,7 +218,7 @@ struct ChatView: View {
         VStack {
             HStack(alignment: .bottom) {
                 // Text input field
-                TextField("Type a message...", text: $viewModel.inputText, axis: .vertical)
+                TextField("Type a message...", text: $viewModel.inputText)
                     .textFieldStyle(RoundedBorderTextFieldStyle())
                     .frame(minHeight: 40)
                     .disabled(viewModel.isGenerating || speechRecognitionManager.isRecording)
@@ -269,7 +269,7 @@ struct ChatView: View {
                 .padding(.bottom, 8)
             }
         }
-        .background(Color(.systemBackground).shadow(radius: 2))
+        .background(Color(NSColor.windowBackgroundColor).shadow(radius: 2))
     }
     
     // MARK: - Voice Methods

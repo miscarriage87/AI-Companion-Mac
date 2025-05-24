@@ -109,7 +109,7 @@ struct MessageBubble: View {
             Text(isExpanded ? "Show less" : "Show more")
                 .font(.caption)
                 .padding(6)
-                .background(Color(.systemBackground).opacity(0.8))
+                .background(Color(NSColor.windowBackgroundColor).opacity(0.8))
                 .cornerRadius(8)
                 .shadow(radius: 2)
         }

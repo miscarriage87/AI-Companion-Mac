@@ -10,7 +10,7 @@ struct MarkdownView: View {
     @State private var error: Error? = nil
     
     var body: some View {
-        Group {
+        VStack(alignment: .leading, spacing: 0) {
             if isLoading {
                 ProgressView()
                     .onAppear {
@@ -36,8 +36,8 @@ struct MarkdownView: View {
             } else {
                 Markdown(content)
                     .markdownTheme(.gitHub)
-                    .markdownCodeSyntaxHighlighter(.highlightr(theme: .xcode))
-                    .markdownImageProvider(.asset())
+                    
+                    
                     .markdownBlockStyle(\.codeBlock) { configuration in
                         configuration.label
                             .markdownTextStyle {
@@ -45,7 +45,7 @@ struct MarkdownView: View {
                                 FontSize(.em(0.85))
                             }
                             .padding()
-                            .background(Color(.systemGray6))
+                            .background(Color(NSColor.windowBackgroundColor))
                             .cornerRadius(8)
                             .overlay(
                                 codeBlockHeader(configuration.language)
@@ -75,7 +75,7 @@ struct MarkdownView: View {
                     .foregroundColor(.secondary)
                     .padding(.horizontal, 8)
                     .padding(.vertical, 4)
-                    .background(Color(.systemGray5))
+                    .background(Color(NSColor.controlBackgroundColor))
                     .cornerRadius(4)
             }
             
@@ -89,7 +89,7 @@ struct MarkdownView: View {
                     .foregroundColor(.secondary)
                     .padding(.horizontal, 8)
                     .padding(.vertical, 4)
-                    .background(Color(.systemGray5))
+                    .background(Color(NSColor.controlBackgroundColor))
                     .cornerRadius(4)
             }
             .buttonStyle(PlainButtonStyle())
@@ -149,7 +149,7 @@ struct CodeBlockView: View {
                         .foregroundColor(.secondary)
                         .padding(.horizontal, 8)
                         .padding(.vertical, 4)
-                        .background(Color(.systemGray5))
+                        .background(Color(NSColor.controlBackgroundColor))
                         .cornerRadius(4)
                 }
                 
@@ -169,13 +169,13 @@ struct CodeBlockView: View {
                         .foregroundColor(isCopied ? .green : .secondary)
                         .padding(.horizontal, 8)
                         .padding(.vertical, 4)
-                        .background(Color(.systemGray5))
+                        .background(Color(NSColor.controlBackgroundColor))
                         .cornerRadius(4)
                 }
                 .buttonStyle(PlainButtonStyle())
             }
             .padding(8)
-            .background(Color(.systemGray6))
+            .background(Color(NSColor.windowBackgroundColor))
             
             // Code content
             ScrollView(.horizontal, showsIndicators: false) {
@@ -188,13 +188,13 @@ struct CodeBlockView: View {
                         .padding(12)
                 }
             }
-            .background(Color(.systemGray6))
+            .background(Color(NSColor.windowBackgroundColor))
         }
         .frame(maxWidth: .infinity, alignment: .leading)
         .cornerRadius(8)
         .overlay(
             RoundedRectangle(cornerRadius: 8)
-                .stroke(Color(.systemGray4), lineWidth: 1)
+                .stroke(Color(NSColor.separatorColor), lineWidth: 1)
         )
     }
     
@@ -217,38 +217,6 @@ struct CodeBlockView: View {
     }
 }
 
-// MARK: - Markdown Syntax Highlighter
-
-extension MarkdownUI.SyntaxHighlighter where Self == HighlightrSyntaxHighlighter {
-    static func highlightr(theme: HighlightrTheme = .default) -> Self {
-        HighlightrSyntaxHighlighter(theme: theme)
-    }
-}
-
-struct HighlightrSyntaxHighlighter: MarkdownUI.SyntaxHighlighter {
-    enum HighlightrTheme: String {
-        case `default` = "default"
-        case xcode = "xcode"
-        case atom = "atom-one-dark"
-        case github = "github"
-        case monokai = "monokai"
-        case solarizedLight = "solarized-light"
-        case solarizedDark = "solarized-dark"
-    }
-    
-    let theme: HighlightrTheme
-    
-    func highlightCode(_ code: String, language: String?) -> AttributedString {
-        guard let language = language,
-              let highlightr = Highlightr(),
-              let highlightedCode = highlightr.highlight(code, as: language) else {
-            return AttributedString(code)
-        }
-        
-        highlightr.setTheme(to: theme.rawValue)
-        return AttributedString(highlightedCode)
-    }
-}
 
 // MARK: - Preview
 

@@ -27,7 +27,7 @@ struct LoginView: View {
             VStack(spacing: 15) {
                 TextField("Email", text: $viewModel.email)
                     .textFieldStyle(RoundedBorderTextFieldStyle())
-                    .textContentType(.emailAddress)
+                    
                     
                     .disableAutocorrection(true)
                 
@@ -175,7 +175,7 @@ struct ResetPasswordView: View {
             
             TextField("Email", text: $viewModel.email)
                 .textFieldStyle(RoundedBorderTextFieldStyle())
-                .textContentType(.emailAddress)
+                
                 
                 .disableAutocorrection(true)
                 

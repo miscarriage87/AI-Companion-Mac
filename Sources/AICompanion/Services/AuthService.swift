@@ -41,14 +41,12 @@ class AuthService: ObservableObject {
         authState = .loading
         do {
             let authResponse = try await supabase.auth.signUp(email: email, password: password)
-            // In Supabase v2, signUp returns AuthSession? or Session?
-            if let session = authResponse.session {
-                self.session = session
-            } else {
-                // Handle the case where session is not available
-                throw NSError(domain: "AuthService", code: 1, userInfo: [NSLocalizedDescriptionKey: "Session not available in authResponse"])
-            }
-            authState = .signedIn
+if let session = authResponse.session {
+    self.session = session
+    authState = .signedIn
+} else {
+    authState = .confirmationRequired
+}
         } catch {
             authState = .error(error)
             throw error
@@ -58,14 +56,9 @@ class AuthService: ObservableObject {
     func signIn(email: String, password: String) async throws {
         authState = .loading
         do {
-            let authResponse = try await supabase.auth.signIn(email: email, password: password)
-            if let session = authResponse.session {
-                self.session = session
-            } else {
-                // Handle the case where session is not available
-                throw NSError(domain: "AuthService", code: 1, userInfo: [NSLocalizedDescriptionKey: "Session not available in authResponse"])
-            }
-            authState = .signedIn
+            let session = try await supabase.auth.signIn(email: email, password: password)
+self.session = session
+authState = .signedIn
         } catch {
             authState = .error(error)
             throw error
