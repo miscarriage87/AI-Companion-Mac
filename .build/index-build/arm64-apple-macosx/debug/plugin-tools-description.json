@@ -1343,6 +1343,10 @@
       "inputs" : [
         {
           "kind" : "file",
+          "name" : "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/Sources/AICompanion/AICompanionApp.swift"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/Sources/AICompanion/Models/ConversationSummary.swift"
         },
         {
@@ -1506,6 +1510,7 @@
       "moduleName" : "AICompanion",
       "moduleOutputPath" : "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/Modules/AICompanion.swiftmodule",
       "objects" : [
+        "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/AICompanion.build/AICompanionApp.swift.o",
         "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/AICompanion.build/ConversationSummary.swift.o",
         "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/AICompanion.build/UserProfile.swift.o",
         "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/AICompanion.build/AIRouter.swift.o",
@@ -1617,6 +1622,7 @@
       ],
       "prepareForIndexing" : true,
       "sources" : [
+        "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/Sources/AICompanion/AICompanionApp.swift",
         "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/Sources/AICompanion/Models/ConversationSummary.swift",
         "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/Sources/AICompanion/Models/UserProfile.swift",
         "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/Sources/AICompanion/Services/AIRouter.swift",
@@ -10297,6 +10303,7 @@
       "ai_companion_mac",
       "-incremental",
       "-c",
+      "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/Sources/AICompanion/AICompanionApp.swift",
       "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/Sources/AICompanion/Models/ConversationSummary.swift",
       "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/Sources/AICompanion/Models/UserProfile.swift",
       "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/Sources/AICompanion/Services/AIRouter.swift",
@@ -13330,6 +13337,10 @@
         {
           "kind" : "virtual",
           "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/Sources/AICompanion/AICompanionApp.swift"
         },
         {
           "kind" : "file",

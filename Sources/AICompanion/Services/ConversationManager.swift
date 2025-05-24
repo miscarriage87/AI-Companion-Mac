@@ -92,7 +92,7 @@ class ConversationManager {
             currentConversation = conversations[0]
         } else if conversations.isEmpty {
             // If no conversations left, create a new one
-            createNewConversation()
+            _ = createNewConversation()
         }
         
         saveConversations()

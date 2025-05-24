@@ -4,6 +4,7 @@ import KeychainAccess
 import Combine
 import SwiftUI
 
+@MainActor
 class AuthService: ObservableObject {
     static let shared = AuthService()
     private(set) var supabase: SupabaseClient

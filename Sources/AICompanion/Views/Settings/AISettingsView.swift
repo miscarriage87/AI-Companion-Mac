@@ -1,4 +1,3 @@
-
 import SwiftUI
 import KeychainAccess
 
@@ -92,8 +91,6 @@ class AISettingsViewModel: ObservableObject {
             try keychain.set(openAIKey, key: "openai_api_key")
             message = "OpenAI API key saved successfully"
             isError = false
-            
-            // Clear message after delay
             DispatchQueue.main.asyncAfter(deadline: .now() + 3) {
                 self.message = nil
             }
@@ -108,8 +105,6 @@ class AISettingsViewModel: ObservableObject {
             try keychain.set(anthropicKey, key: "anthropic_api_key")
             message = "Anthropic API key saved successfully"
             isError = false
-            
-            // Clear message after delay
             DispatchQueue.main.asyncAfter(deadline: .now() + 3) {
                 self.message = nil
             }
@@ -124,7 +119,6 @@ class AISettingsViewModel: ObservableObject {
             if let savedOpenAIKey = try keychain.get("openai_api_key") {
                 openAIKey = savedOpenAIKey
             }
-            
             if let savedAnthropicKey = try keychain.get("anthropic_api_key") {
                 anthropicKey = savedAnthropicKey
             }
@@ -136,25 +130,16 @@ class AISettingsViewModel: ObservableObject {
     // MARK: - Default Settings
     
     func saveDefaultSettings() {
-        do {
-            // Save default provider
-            UserDefaults.standard.set(defaultProvider.rawValue, forKey: "default_provider")
-            
-            // Save default model
-            UserDefaults.standard.set(defaultModel, forKey: "default_model")
-            
-            message = "Default settings saved successfully"
-            isError = false
-            
-            // Clear message after delay
-            DispatchQueue.main.asyncAfter(deadline: .now() + 3) {
-                self.message = nil
-            }
-        } catch {
-            message = "Failed to save default settings: \(error.localizedDescription)"
-            isError = true
-        }
+    // Save default provider
+    UserDefaults.standard.set(defaultProvider.rawValue, forKey: "default_provider")
+    // Save default model
+    UserDefaults.standard.set(defaultModel, forKey: "default_model")
+    message = "Default settings saved successfully"
+    isError = false
+    DispatchQueue.main.asyncAfter(deadline: .now() + 3) {
+        self.message = nil
     }
+}
     
     func loadDefaultSettings() {
         // Load default provider
@@ -162,7 +147,6 @@ class AISettingsViewModel: ObservableObject {
            let provider = AIProviderType(rawValue: providerString) {
             defaultProvider = provider
         }
-        
         // Load default model
         if let modelID = UserDefaults.standard.string(forKey: "default_model") {
             defaultModel = modelID

@@ -4,6 +4,7 @@ import Combine
 import SwiftUI
 
 /// ViewModel for handling authentication-related UI logic
+@MainActor
 class AuthViewModel: ObservableObject {
     // MARK: - Properties
     

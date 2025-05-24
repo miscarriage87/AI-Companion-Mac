@@ -2,6 +2,12 @@
   "": {
     "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/AICompanion.build/master.swiftdeps"
   },
+  "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/Sources/AICompanion/AICompanionApp.swift": {
+    "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/AICompanion.build/AICompanionApp.d",
+    "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/AICompanion.build/AICompanionApp.swift.o",
+    "swiftmodule": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/AICompanion.build/AICompanionApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/AICompanion.build/AICompanionApp.swiftdeps"
+  },
   "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/Sources/AICompanion/Models/ConversationSummary.swift": {
     "dependencies": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/AICompanion.build/ConversationSummary.d",
     "object": "/Users/christophpohl/Documents/CODING/VS Code/AI-Companion-Mac/.build/index-build/arm64-apple-macosx/debug/AICompanion.build/ConversationSummary.swift.o",

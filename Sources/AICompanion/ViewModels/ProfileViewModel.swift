@@ -5,6 +5,7 @@ import SwiftUI
 import Supabase
 
 /// ViewModel for handling user profile management
+@MainActor
 class ProfileViewModel: ObservableObject {
     // MARK: - Properties
     
@@ -62,16 +63,14 @@ class ProfileViewModel: ObservableObject {
         errorMessage = nil
         
         do {
-            let response = try await authService.supabase.database
-                .from("profiles")
+            let response = try await authService.supabase.from("profiles")
                 .select()
                 .eq("id", value: userId)
                 .single()
                 .execute()
             
             let data = response.data
-            print("Type of response.data:", type(of: response.data))
-            let profile = try JSONDecoder().decode(UserProfile.self, from: data)
+                        let profile = try JSONDecoder().decode(UserProfile.self, from: data)
 
             self.profile = profile
             self.displayName = profile.displayName ?? ""
@@ -108,8 +107,7 @@ class ProfileViewModel: ObservableObject {
         )
         
         do {
-            try await authService.supabase.database
-                .from("profiles")
+            try await authService.supabase.from("profiles")
                 .upsert(updatedProfile)
                 .execute()
             
@@ -142,14 +140,10 @@ class ProfileViewModel: ObservableObject {
             // Upload image to Supabase Storage
             try await authService.supabase.storage
                 .from("profiles")
-                .upload(
-                    path: filePath,
-                    file: imageData,
-                    options: .init(contentType: "image/jpeg")
-                )
+                .upload(filePath, data: imageData, options: .init(contentType: "image/jpeg"))
             
             // Get public URL for the uploaded image
-            let publicURL = try await authService.supabase.storage
+            let publicURL = try authService.supabase.storage
                 .from("profiles")
                 .getPublicURL(path: filePath)
             

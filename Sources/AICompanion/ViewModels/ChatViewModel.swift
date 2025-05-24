@@ -324,7 +324,7 @@ class ChatViewModel: ObservableObject {
         }
         
         // Remove the last AI response
-        let lastUserMessage = messages[lastUserMessageIndex]
+        _ = messages[lastUserMessageIndex]
         messages.removeLast(messages.count - lastUserMessageIndex - 1)
         
         // Get context window for the selected model, including summary if needed
@@ -354,7 +354,7 @@ class ChatViewModel: ObservableObject {
     
     /// Create a new conversation
     func newConversation() {
-        conversationManager.createNewConversation()
+        _ = conversationManager.createNewConversation()
     }
     
     /// Clear the current conversation
