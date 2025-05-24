@@ -50,7 +50,8 @@ let package = Package(
                     "-framework", "ARKit",
                     "-framework", "RealityKit",
                     "-framework", "CoreLocation",
-                    "-framework", "Combine"
+                    "-framework", "Combine",
+                    "-framework", "UserNotifications"
                 ])
             ]),
         .testTarget(
@@ -64,6 +65,7 @@ let package = Package(
                     "-framework", "RealityKit",
                     "-framework", "CoreLocation",
                     "-framework", "Combine",
+                    "-framework", "UserNotifications",
                     "-framework", "XCTest"
                 ])
             ]),
