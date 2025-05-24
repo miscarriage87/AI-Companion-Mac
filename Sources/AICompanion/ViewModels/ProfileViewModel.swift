@@ -69,11 +69,15 @@ class ProfileViewModel: ObservableObject {
                 .single()
                 .execute()
             
-            // Annahme: response.data ist Data? oder [String: Any]?
-            guard let data = response.data else {
-                throw NSError(domain: "Profile", code: 0, userInfo: [NSLocalizedDescriptionKey: "No profile data"])
-            }
+            let data = response.data
+            print("Type of response.data:", type(of: response.data))
             let profile = try JSONDecoder().decode(UserProfile.self, from: data)
+
+            self.profile = profile
+            self.displayName = profile.displayName ?? ""
+            self.bio = profile.bio ?? ""
+            self.avatarURL = profile.avatarURL ?? ""
+            self.isLoading = false
 
             self.profile = profile
             self.displayName = profile.displayName ?? ""

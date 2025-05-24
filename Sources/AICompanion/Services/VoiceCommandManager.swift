@@ -89,7 +89,7 @@ class VoiceCommandManager: ObservableObject {
             return false
         }
         
-        return command.execute(with: commandParameters, context: context)
+        return command.execute(commandParameters, context)
     }
     
     // MARK: - Private Methods

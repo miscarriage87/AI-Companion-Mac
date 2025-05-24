@@ -230,11 +230,17 @@ class SpeechRecognitionManager: NSObject, ObservableObject {
     }
     
     /// Configure the audio session for speech recognition
+    #if os(iOS)
     private func configureAudioSession() throws {
         let audioSession = AVAudioSession.sharedInstance()
         try audioSession.setCategory(.record, mode: .measurement, options: .duckOthers)
         try audioSession.setActive(true, options: .notifyOthersOnDeactivation)
     }
+    #else
+    private func configureAudioSession() throws {
+        // No-op on macOS
+    }
+    #endif
     
     /// Restart speech recognition for continuous listening mode
     private func restartRecognition() {

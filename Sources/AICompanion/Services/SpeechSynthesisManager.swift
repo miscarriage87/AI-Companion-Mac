@@ -179,8 +179,8 @@ class SpeechSynthesisManager: NSObject, ObservableObject, AVSpeechSynthesizerDel
     /// Set the default voice for speech synthesis
     private func setDefaultVoice() {
         // Try to get system voice
-        if let systemVoice = AVSpeechSynthesisVoice.currentLanguageCode(),
-           let voice = AVSpeechSynthesisVoice(language: systemVoice) {
+        let systemVoice = AVSpeechSynthesisVoice.currentLanguageCode()
+        if let voice = AVSpeechSynthesisVoice(language: systemVoice) {
             currentVoice = voice
         } else {
             // Fallback to English

@@ -20,19 +20,19 @@ struct RegisterView: View {
             VStack(spacing: 15) {
                 TextField("Email", text: $viewModel.email)
                     .textFieldStyle(RoundedBorderTextFieldStyle())
-                    .textContentType(.emailAddress)
-                    .autocapitalization(.none)
+                    
+                    
                     .disableAutocorrection(true)
                 
                 SecureField("Password", text: $viewModel.password)
                     .textFieldStyle(RoundedBorderTextFieldStyle())
-                    .textContentType(.newPassword)
+                    
                 
                 SecureField("Confirm Password", text: $viewModel.confirmPassword)
                     .textFieldStyle(RoundedBorderTextFieldStyle())
-                    .textContentType(.newPassword)
+                    
             }
-            .padding(.vertical)
+            
             
             // Error message
             if let errorMessage = viewModel.errorMessage {

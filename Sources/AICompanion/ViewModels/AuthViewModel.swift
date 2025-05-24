@@ -101,7 +101,7 @@ class AuthViewModel: ObservableObject {
     /// Sign in with Apple
     func signInWithApple() async {
         do {
-            try await authService.signInWithOAuth(provider: .apple)
+            try await authService.signInWithOAuth(provider: "apple")
         } catch {
             // Error is handled via the authState publisher
         }
@@ -110,7 +110,7 @@ class AuthViewModel: ObservableObject {
     /// Sign in with Google
     func signInWithGoogle() async {
         do {
-            try await authService.signInWithOAuth(provider: .google)
+            try await authService.signInWithOAuth(provider: "google")
         } catch {
             // Error is handled via the authState publisher
         }

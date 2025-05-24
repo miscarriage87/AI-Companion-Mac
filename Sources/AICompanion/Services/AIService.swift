@@ -1,5 +1,6 @@
 
 import Foundation
+import KeychainAccess
 import Combine
 
 // MARK: - AI Provider Protocol

@@ -28,14 +28,14 @@ struct LoginView: View {
                 TextField("Email", text: $viewModel.email)
                     .textFieldStyle(RoundedBorderTextFieldStyle())
                     .textContentType(.emailAddress)
-                    .autocapitalization(.none)
+                    
                     .disableAutocorrection(true)
                 
                 SecureField("Password", text: $viewModel.password)
                     .textFieldStyle(RoundedBorderTextFieldStyle())
                     .textContentType(.password)
             }
-            .padding(.vertical)
+            
             
             // Error message
             if let errorMessage = viewModel.errorMessage {
@@ -176,9 +176,9 @@ struct ResetPasswordView: View {
             TextField("Email", text: $viewModel.email)
                 .textFieldStyle(RoundedBorderTextFieldStyle())
                 .textContentType(.emailAddress)
-                .autocapitalization(.none)
+                
                 .disableAutocorrection(true)
-                .padding(.vertical)
+                
             
             // Error message
             if let errorMessage = viewModel.errorMessage {
